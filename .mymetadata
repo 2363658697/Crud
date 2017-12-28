@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Crud"
+  id="myeclipse.1512953001610"
+  context-root="/Crud"
+  j2ee-spec="5.0"
+  archive="Crud.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
